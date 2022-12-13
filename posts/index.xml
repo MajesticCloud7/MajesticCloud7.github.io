@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cloud LD4</title>
+    <link>https://MajesticCloud7.io/posts/</link>
+    <description>Recent content in Posts on Cloud LD4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Dec 2022 19:25:59 +0200</lastBuildDate><atom:link href="https://MajesticCloud7.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page 1</title>
+      <link>https://MajesticCloud7.io/posts/page1/</link>
+      <pubDate>Tue, 13 Dec 2022 19:25:59 +0200</pubDate>
+      
+      <guid>https://MajesticCloud7.io/posts/page1/</guid>
+      <description>Welcome to Cloud LD4 Hugo site! This is Page 1.</description>
+      <content>&lt;h1 id=&#34;welcome-to-cloud-ld4-hugo-site&#34;&gt;Welcome to Cloud LD4 Hugo site!&lt;/h1&gt;
+&lt;p&gt;This is Page 1.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

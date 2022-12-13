@@ -6,7 +6,54 @@
     <description>Recent content on Cloud LD4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Dec 2022 19:25:59 +0200</lastBuildDate><atom:link href="https://MajesticCloud7.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 20:18:10 +0200</lastBuildDate><atom:link href="https://MajesticCloud7.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page 2</title>
+      <link>https://MajesticCloud7.io/posts/page2/</link>
+      <pubDate>Tue, 13 Dec 2022 20:18:10 +0200</pubDate>
+      
+      <guid>https://MajesticCloud7.io/posts/page2/</guid>
+      <description>C#Codeusing System;using System.Collections.Generic;using System.Linq;using System.Text;using System.Threading.Tasks;namespace CSharpTutorials{class Program{static void Main(string[] args){string message = &amp;#34;Hello World!!&amp;#34;;Console.WriteLine(message);}}}</description>
+      <content>
+  &lt;img src=&#34;https://MajesticCloud7.io/img/cat.jpg&#34;  class=&#34;center&#34;  style=&#34;border-radius: 50px;&#34;  /&gt;
+
+
+
+
+
+  &lt;div class=&#34;collapsable-code&#34;&gt;
+    &lt;input id=&#34;953472861&#34; type=&#34;checkbox&#34;  /&gt;
+    &lt;label for=&#34;953472861&#34;&gt;
+      &lt;span class=&#34;collapsable-code__language&#34;&gt;C#&lt;/span&gt;
+      &lt;span class=&#34;collapsable-code__title&#34;&gt;Code&lt;/span&gt;
+      &lt;span class=&#34;collapsable-code__toggle&#34; data-label-expand=&#34;△&#34; data-label-collapse=&#34;▽&#34;&gt;&lt;/span&gt;
+    &lt;/label&gt;
+    &lt;pre class=&#34;language-C#&#34; &gt;&lt;code&gt;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharpTutorials
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string message = &amp;#34;Hello World!!&amp;#34;;
+
+            Console.WriteLine(message);
+        }
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+
+
+</content>
+    </item>
+    
     <item>
       <title>Page 1</title>
       <link>https://MajesticCloud7.io/posts/page1/</link>
